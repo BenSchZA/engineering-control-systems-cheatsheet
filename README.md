@@ -8,5 +8,5 @@ If you find any errors please log it as an issue and I'll see to it.
 If you make any contributions, please add your name in the contributors section of the LaTeX file, and below in README.md.
 
 ## Contributors
-Benjamin Scholtz
-Sean Wood
+* Benjamin Scholtz
+* Sean Wood
